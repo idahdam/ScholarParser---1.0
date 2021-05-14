@@ -26,23 +26,17 @@ File XLSX memiliki 5 kolom:
 ## Bagaimana cara menggunakannya?
 
 1. Install Python (pembuatan menggunakan Python 3.9). Gunakan command prompt/terminal/powershell untuk melakukan pengecekan dan masukkan command berikut:
-
 ```
 python --version
 ```
-
 2. Install beberapa dependencies menggunakan pip:
-
 ```
 pip install scholarly xlsxwriter html2text
 ```
 
-3. Download file pada link [berikut](https://github.com/idahdam/ScholarParser-1.0/releases). File bernama ScholarParser-v1.0.zip. Ekstrak ke suatu folder, dengan menggunakan CMD/Terminal/Powershell, pindah ke directory yang berisi mainWindow.py dan REAADME.txt.
-
+3. Download file pada link [berikut](https://github.com/idahdam/ScholarParser-1.0/releases). File bernama ScholarParser-v1.0.zip. Ekstrak ke suatu folder, dengan menggunakan CMD/Terminal/Powershell, pindah ke directory yang berisi mainWindow.py dan README.txt.
 4. Jalankan program dengan command:
-
 ```
 py mainWindow.py
 ```
-
 5. Log yang terjadi pada aplikasi akan terlihat pada terminal. Done.
