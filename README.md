@@ -40,3 +40,13 @@ pip install scholarly xlsxwriter html2text
 py mainWindow.py
 ```
 5. Tedapat file bernama `exampleFile.txt` yang merupakan file untuk melakukan pengetesan. Log yang terjadi pada aplikasi akan terlihat pada terminal. Done.
+
+
+
+## Things to be done:
+1. Multithreading
+2. GUI Fixing
+3. Other scholar API addition
+
+## Interested on contributing?
+Just fork it and let me know how you do it!
