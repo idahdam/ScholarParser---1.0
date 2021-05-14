@@ -50,3 +50,6 @@ py mainWindow.py
 
 ## Interested on contributing?
 Just fork it and let me know how you do it!
+
+
+MHadi@2021
