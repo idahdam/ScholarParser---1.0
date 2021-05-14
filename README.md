@@ -37,7 +37,7 @@ python --version
 pip install scholarly xlsxwriter html2text
 ```
 
-3. Pindah ke directory yang berisi mainWindow.py
+3. Download file pada link [berikut](https://github.com/idahdam/ScholarParser-1.0/releases). File bernama ScholarParser-v1.0.zip. Ekstrak ke suatu folder, dengan menggunakan CMD/Terminal/Powershell, pindah ke directory yang berisi mainWindow.py dan REAADME.txt.
 
 4. Jalankan program dengan command:
 
