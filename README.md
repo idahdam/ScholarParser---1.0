@@ -1,1 +1,1 @@
-# ScholarParser---1.0
+# ScholarParser-1.0
